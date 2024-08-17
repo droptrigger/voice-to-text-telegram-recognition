@@ -3,13 +3,11 @@
 
 # Voice to text translator
 
----
 
 Telegram bot, for recognizing text from voice messages or video messages.
 
 </div>
 
----
 
 ## 📖 Description
 The bot allows you to translate voice messages and video notes into text form.\
@@ -19,7 +17,6 @@ The translation is carried out by a trained vosk model, which you can pump if yo
 
 You can also add a text recognition function from the video, and in general, do what you go __xD__
 
-----
 
 ## 🧐 Instruction
 
@@ -43,7 +40,6 @@ pip install librosa
 
 #### 5. Enter the received token and the path to the vosk model in the file [constants](main/constants.py).
 
----
 
 ## ✅ That's it, now you can launch the bot
 
