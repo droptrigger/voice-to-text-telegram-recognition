@@ -3,6 +3,10 @@
 
 # Voice to text translator
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 224518367a221762a2dae3fd4ada95d5694a743f
 Telegram bot, for recognizing text from voice messages or video messages.
 
 </div>
