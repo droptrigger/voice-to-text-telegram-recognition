@@ -25,7 +25,7 @@ You can also add a text recognition function from the video, and in general, do 
 
 #### 0. First, you need to clone the repository to your computer.
 
-#### 1. The next step is to install the necessary libraries (versions are written in [constants](constants.py));
+#### 1. The next step is to install the necessary libraries (versions are written in [constants](main/constants.py));
 
 ```
 pip install vosk
@@ -41,7 +41,7 @@ pip install librosa
 
 #### 4. Next, using https://t.me/BotFather create a bot and get its token;
 
-#### 5. Enter the received token and the path to the vosk model in the file [constants](constants.py).
+#### 5. Enter the received token and the path to the vosk model in the file [constants](main/constants.py).
 
 ---
 
