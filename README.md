@@ -4,7 +4,7 @@
 # Voice to text translator
 
 Telegram bot, for recognizing text from voice messages or video messages.
-
+ My TG channel - t.me/CreateTrigger
 </div>
 
 
