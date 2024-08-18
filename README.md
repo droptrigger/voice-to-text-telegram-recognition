@@ -18,7 +18,7 @@ You can also add a text recognition function from the video, and in general, do 
 
 ## 🖼 Screenshots
 
-![image](https://github.com/user-attachments/assets/cbb8a495-df1f-49f2-948f-c92465cbcd59)
+![git-read](https://github.com/user-attachments/assets/22e77b1c-2416-4cf2-8877-114f4311bba2)
 
 
 ## 🧐 Instruction
