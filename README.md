@@ -16,6 +16,10 @@ The translation is carried out by a trained vosk model, which you can pump if yo
 
 You can also add a text recognition function from the video, and in general, do what you go __xD__
 
+## 🖼 Screenshots
+
+![image](https://github.com/user-attachments/assets/cbb8a495-df1f-49f2-948f-c92465cbcd59)
+
 
 ## 🧐 Instruction
 
