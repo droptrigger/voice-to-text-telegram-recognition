@@ -3,7 +3,7 @@
 
 # Voice to text translator
 
-Telegram bot, for recognizing text from voice messages or video messages.  
+Telegram bot, for recognizing text from voice messages or video messages. Without using an API other than aiogram.  
 My TG channel - [Click](https://t.me/CreateTrigger)
 </div>
 
